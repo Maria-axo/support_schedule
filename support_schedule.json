@@ -8,7 +8,7 @@
     },
     "group2": {
       "operators": {
-        "@RomaYana": {"time_start": "12:00", "time_end": "20:00"},
+        "@KKsenyaVPN": {"time_start": "11:00", "time_end": "16:00"},
         "@marias_axo": {"time_start": "06:00", "time_end": "14:00"}
       }
     }
@@ -19,9 +19,9 @@
         "@RomaYana": {"time_start": "12:00", "time_end": "20:00"},
         "@maria_sunlife": {"time_start": "04:00", "time_end": "12:00"}          
     },
-    "2025-04-22": {
+    "2025-07-19": {
         "@AnastasiaServiceVPN": {"time_start": "14:00", "time_end": "22:00"},
-        "@maria_sunlife": {"time_start": "17:00", "time_end": "20:00"}
+        "@marias_axo": {"time_start": "06:00", "time_end": "14:00"}
     },
     "2025-04-05": {
         "@AnastasiaServiceVPN": {"time_start": "14:00", "time_end": "22:00"},
