@@ -15,7 +15,7 @@
   },
   "cycle_start_date": "2025-01-27",
   "special_days": { 
-    "2025-04-21": {
+    "2025-05-22": {
         "@RomaYana": {"time_start": "12:00", "time_end": "20:00"},
         "@maria_sunlife": {"time_start": "04:00", "time_end": "12:00"}          
     },
